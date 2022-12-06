@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="my_test" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-12-04T15:22:54" hostname="Irinas-MacBook-Pro.local" time="18.442">
+  <properties/>
+  <testcase name="openFacebookForm" classname="my_test" time="16.005"/>
+  <testcase name="fillFacebookForm" classname="my_test" time="2.406"/>
+  <testcase name="checkButton" classname="my_test" time="0.027"/>
+  <system-out><![CDATA[I'm a facebook test
+Work
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
